@@ -1,5 +1,7 @@
 {
   "recommendations": [
-    "jetpack-io.devbox"
+    "jetpack-io.devbox",
+    "ms-python.vscode-python-envs",
+    "ms-ossdata.vscode-pgsql"
   ]
 }

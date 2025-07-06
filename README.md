@@ -2,6 +2,7 @@
 [![Built with Devbox](https://www.jetify.com/img/devbox/shield_moon.svg)](https://www.jetify.com/devbox/docs/contributor-quickstart/)
 ## Environment
 * Postgres
+* `devbox services up -b`
 ```
 postgresql 17.5
 Powerful, open source object-relational database system
