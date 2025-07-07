@@ -3,7 +3,8 @@
   "packages": [
     "git@latest",
     "postgresql@latest",
-    "python@latest"
+    "python@latest",
+    "ruby@latest"
   ],
   "shell": {
     "init_hook": [

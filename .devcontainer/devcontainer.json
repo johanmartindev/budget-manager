@@ -9,7 +9,13 @@
       "settings": {},
       "extensions": [
         "jetpack-io.devbox",
-        "ms-azuretools.vscode-containers"
+        "ms-azuretools.vscode-containers",
+        "ms-toolsai.datawrangler",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-powertoys",
+        "ms-toolsai.jupyter-hub"
       ]
     }
   },
